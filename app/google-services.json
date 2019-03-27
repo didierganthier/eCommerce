@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "664269473843",
+    "firebase_url": "https://pinyna-8f67e.firebaseio.com",
+    "project_id": "pinyna-8f67e",
+    "storage_bucket": "pinyna-8f67e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664269473843:android:458e76d31cc152af",
+        "android_client_info": {
+          "package_name": "ht.ganthier.didier.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "664269473843-397l0doddh100bum5bo4n0baq3c2upaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ht.ganthier.didier.ecommerce",
+            "certificate_hash": "dd36869ec789310f92b78d5bfeb308bf11e0b0a9"
+          }
+        },
+        {
+          "client_id": "664269473843-1oqn46f0seehjggl3pag9sq01f1vceaa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCB_VNsoGjIbGk6JlT_IMkxqxiDLwXgt-U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "664269473843-1oqn46f0seehjggl3pag9sq01f1vceaa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
